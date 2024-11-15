@@ -1,4 +1,4 @@
 个人博客是人们在网络上展现自己个性的一种方式。自从互联网走进千家万户，大受人们喜爱。大家都喜欢通过网络来获取各种各样的信息。而在网络上，你也可以畅所欲言，而个人博客也是其中一种。在个人博客上，你可以发表自己的心路旅程，发表自己的工作经验，发表技术博客等等。
-系统流程图
-![image](https://github.com/user-attachments/assets/0a3174ec-dd02-49a8-8c5c-a5be87edbd8c)
+![image](https://github.com/user-attachments/assets/bfe77374-62d5-4781-9739-e965d8be9b80)
+
 
